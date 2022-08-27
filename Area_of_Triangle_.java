@@ -1,5 +1,5 @@
 import java.util.*;
-class Program_to_Multiply_Two_Floating_Point_Numbers{
+class Area_of_Triangle{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         float a= sc.nextFloat(),b=sc.nextFloat(),c=sc.nextFloat();
