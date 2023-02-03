@@ -1,5 +1,5 @@
 import java.util.*;
-class Primes_greater_than_k{
+class Primes_less_than_k{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt(),k,c=0,f;
